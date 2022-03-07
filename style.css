@@ -6,7 +6,8 @@
 .fundo{
     background-image: linear-gradient(45deg, black, rgb(171, 130, 238));
     text-align: center;
-    height: 100vmin;
+    width: 100vmax;
+    height: 100vmax;
     color: blueviolet;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
